@@ -3,7 +3,7 @@
     <groupId>io.jvelo</groupId>
     <artifactId>jdbi-postgres-uuid</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <description>Utilities to support UUID in postgres with jDBI</description>
     <url>http://github.com/jvelo/jdbi-postgres-uuid</url>
 
@@ -28,7 +28,7 @@
         <connection>scm:git:git://github.com/jvelo/jdbi-postgres-uuid.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/jvelo/jdbi-postgres-uuid.git</developerConnection>
         <url>http://github.com/jvelo/jdbi-postgres-uuid</url>
-        <tag>jdbi-postgres-uuid-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
